@@ -1,1 +1,1 @@
-You can view [Website for buisness](https://website-for-business.netlify.app/)
+You can view [Website for buisness](https://website-for-business-yurii-diachuk.netlify.app/)
